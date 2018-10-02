@@ -1,0 +1,32 @@
+[debug] [2018-03-16T08:31:53.167Z] ----------------------------------------------------------------------
+[debug] [2018-03-16T08:31:53.170Z] Command:       /usr/bin/node /usr/bin/firebase serve
+[debug] [2018-03-16T08:31:53.171Z] CLI Version:   3.17.6
+[debug] [2018-03-16T08:31:53.171Z] Platform:      linux
+[debug] [2018-03-16T08:31:53.171Z] Node Version:  v8.10.0
+[debug] [2018-03-16T08:31:53.171Z] Time:          Fri Mar 16 2018 14:01:53 GMT+0530 (IST)
+[debug] [2018-03-16T08:31:53.171Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-03-16T08:31:53.185Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-03-16T08:31:53.186Z] > authorizing via signed-in user
+[debug] [2018-03-16T08:31:53.188Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/chat-solutix  
+  
+ Fri Mar 16 2018 14:01:53 GMT+0530 (IST)
+[debug] [2018-03-16T08:31:56.971Z] <<< HTTP RESPONSE 200
+[debug] [2018-03-16T08:31:56.972Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/chat-solutix/tokens  
+  
+ Fri Mar 16 2018 14:01:56 GMT+0530 (IST)
+[debug] [2018-03-16T08:32:01.780Z] <<< HTTP RESPONSE 200
+[debug] [2018-03-16T08:32:01.782Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/chat-solutix  
+  
+ Fri Mar 16 2018 14:02:01 GMT+0530 (IST)
+[debug] [2018-03-16T08:32:03.401Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from '/home/apsrcreatix/Dropbox/glab/text-lite-aplha'...
+[info] 
+[debug] [2018-03-16T08:32:03.413Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/932478389439/clients/_:getWebAppConfig  
+  
+ Fri Mar 16 2018 14:02:03 GMT+0530 (IST)
+[debug] [2018-03-16T08:32:04.528Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: ./
+[info] ✔  hosting: Local server: http://localhost:5000
+
